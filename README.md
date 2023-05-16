@@ -6,7 +6,8 @@ Written in React.js with little help of Pico CSS - library that boost a little b
 
 tutorial on yt (2 parts):
 
-- https://www.youtube.com/watch?v=oxam6oaWdV8
+- [Part 1] https://www.youtube.com/watch?v=oxam6oaWdV8
+- [Part 2] https://www.youtube.com/watch?v=QPhQUPjemyQ
 
 ## Praca domowa
 
