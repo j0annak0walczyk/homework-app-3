@@ -2,6 +2,7 @@ import "./App.css";
 import { EditModal } from "./components/EditModal";
 import { Filters } from "./components/Filters";
 import { Form } from "./components/Form";
+import { Metrics } from "./components/Metrics";
 import { TodoList } from "./components/TodoList";
 import { useState } from "react";
 
@@ -14,6 +15,7 @@ function App() {
       <article>
         <Form setTodos={setTodos} />
         <Filters todos={todos} setTodos={setTodos} />
+        <Metrics todos={todos} />
         <TodoList
           todosToRender={todos}
           setTodos={setTodos}
